@@ -6,4 +6,4 @@ elif (n < 0):
 else :
     print("invalid input")
     
-print("thank") 
+
