@@ -1,7 +1,9 @@
-x=-9
-if x>0:
-    print("positive")
-elif x<0:
-    print("negTive")
-else:
-    print("wrong input")
+n = int(input("enter the desired number "))
+if (n > 0) :
+    print("the number is positive")
+elif (n < 0):
+    print("the number is negative")
+else :
+    print("invalid input")
+    
+print("thank") 
